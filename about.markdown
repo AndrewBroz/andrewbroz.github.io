@@ -11,12 +11,10 @@ recently, half-cocked original philosophy, nature photos, and maybe some doodles
 if I'm feeling scribbly.
 
 If you'd like to reach out, I'm active on
-[Twitter][https://twitter.com/AndrewBroz]. Friendly interactions welcome,
-including constructive questions and thoughtful criticism.
+[Twitter](https://twitter.com/AndrewBroz). Friendly interactions welcome,
+including thoughtful criticism.
 
----
-
-Andrew Brož is a software engineer and sometimes cellist from Texas, now living
+_Andrew Brož is a software engineer and sometimes cellist from Texas, now living
 in San Francisco. He finds joy in unexpected chord changes, poetic turns, and
 mathematical insights (among other things). He speaks Russian and Ukrainian in
-addition to his native English.
+addition to his native English._
