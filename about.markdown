@@ -6,7 +6,7 @@ permalink: /about/
 
 Welcome! This is my non-professional blog. I use this space for public
 note-taking and writing practice. Expect poetry, blog posts about reasoning,
-thoughts about music-making, summaries of what I've been thinkinag about
+thoughts about music-making, summaries of what I've been thinking about
 recently, half-cocked original philosophy, nature photos, and maybe some doodles
 if I'm feeling scribbly.
 
