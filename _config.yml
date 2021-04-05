@@ -6,6 +6,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AndrewBroz
 instagram_username: andrewbroz
 github_username: abroz
+youtube_username: AndrewBroz
 
 # Build settings
 theme: minima
