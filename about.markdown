@@ -14,9 +14,9 @@ If you'd like to reach out, I'm active on
 [Twitter](https://twitter.com/AndrewBroz). Thoughtful replies, tags, and DMs
 welcome.
 
-## About the Author
+### About the Author
 
-Andrew Brož is a software engineer and sometimes cellist from Texas, now living
+_Andrew Brož is a software engineer and sometimes cellist from Texas, now living
 in San Francisco. He finds joy in unexpected chord changes, poetic turns, and
 mathematical insights (among other things). He speaks Russian and Ukrainian in
-addition to his native English.
+addition to his native English._
