@@ -6,12 +6,12 @@ permalink: /about/
 
 Welcome! This is my non-professional blog. I use this space for public
 note-taking and writing practice. Expect poetry, essays about reasoning,
-thoughts about music-making, summaries of what I've been thinking about
-recently, half-cocked philosophy, nature photos, and maybe some doodles
-if I'm feeling scribbly.
+thoughts about music-making, summaries of what I've been researching or
+thinking about recently, projections, half-cocked philosophy, nature photos,
+and maybe some doodles if I'm feeling scribbly.
 
 If you'd like to reach out, I'm active on
-[Twitter](https://twitter.com/AndrewBroz). Friendly interactions welcome,
+[Twitter](https://twitter.com/AndrewBroz). Friendly engagement welcome,
 including thoughtful criticism.
 
 _Andrew Brož is a software engineer and sometimes cellist from Texas, now living
